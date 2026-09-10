@@ -2,7 +2,11 @@
 
 ## 📌 Deskripsi
 
+<<<<<<< HEAD
 **Personal Website Fatia Nuri Ramdani** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
+=======
+**Personal Website Fatia Nuri** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
+>>>>>>> e59923257b5bf0e186ebd5af6d7f6bec136e5856
 
 Website ini juga menjadi salah satu tahap awal dalam mempelajari konsep dasar pengembangan website, khususnya penggunaan struktur HTML, navigasi antarhalaman, tabel, formulir, gambar, tautan, dan elemen-elemen HTML lainnya.
 
@@ -62,7 +66,11 @@ Miniatur alat sederhana yang dirancang untuk membantu melakukan penyiraman tanam
 
 ### 2. Website ZHS
 
+<<<<<<< HEAD
 Website yang dibuat untuk menampilkan fitur dan informasi mengenai Turism.
+=======
+Website yang dibuat untuk menampilkan fitur dan informasi mengenai Tourism.
+>>>>>>> e59923257b5bf0e186ebd5af6d7f6bec136e5856
 
 **Teknologi:** Figma
 

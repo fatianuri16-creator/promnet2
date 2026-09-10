@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 
-**Personal Website Delia Mutiara** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
+**Personal Website Fatia Nuri Ramdani** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
 
 Website ini juga menjadi salah satu tahap awal dalam mempelajari konsep dasar pengembangan website, khususnya penggunaan struktur HTML, navigasi antarhalaman, tabel, formulir, gambar, tautan, dan elemen-elemen HTML lainnya.
 
@@ -60,9 +60,9 @@ Miniatur alat sederhana yang dirancang untuk membantu melakukan penyiraman tanam
 
 **Teknologi:** C++
 
-### 2. Website Westra
+### 2. Website ZHS
 
-Website yang dibuat untuk menampilkan fitur dan informasi mengenai makanan khas Jawa Barat.
+Website yang dibuat untuk menampilkan fitur dan informasi mengenai Turism.
 
 **Teknologi:** Figma
 
@@ -74,8 +74,8 @@ Game sederhana yang dikembangkan menggunakan **Ren'Py**.
 
 ## 👩‍💻 Profil
 
-**Nama:** Delia Mutiara
-**NIM:** 2501881
+**Nama:** Fatia Nuri
+**NIM:** 2502851
 **Program Studi:** Pendidikan Sistem dan Teknologi Informasi
 **Semester:** 3
 **Universitas:** Universitas Pendidikan Indonesia

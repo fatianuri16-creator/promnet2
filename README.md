@@ -1,8 +1,6 @@
 # Personal Website — Fatia Nuri
 
 ## 📌 Deskripsi
-
-<<<<<<< HEAD
 **Personal Website Fatia Nuri Ramdani** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
 =======
 **Personal Website Fatia Nuri** adalah sebuah website portofolio pribadi sederhana yang dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Internet (Promnet)**. Website ini dikembangkan menggunakan **HTML dasar** sebagai media untuk memperkenalkan profil, informasi diri, pengalaman pendidikan, hobi, serta beberapa proyek yang pernah dikerjakan.
